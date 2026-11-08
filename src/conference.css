@@ -26,3 +26,22 @@
 .dialog-axis-name{display:flex;align-items:center;gap:7px;min-width:0}
 .dialog-axis-name svg{color:#4b8cc4;flex:none}
 @media print{.axis-rank-label svg,.heatmap-axis-label svg{width:12px;height:12px}}
+
+.university-logo{width:52px;height:52px;object-fit:contain;flex:none}
+.identity{gap:11px}
+.identity strong{font-size:17px;font-weight:800}
+.identity small{font-size:10px;line-height:1.6}
+.portal-footer{justify-content:flex-end}
+.results-panel{padding:24px}
+.results-heading h2{font-size:22px;font-weight:800}
+.result-tools input,.result-tools select{font-size:12px}
+.course-result{grid-template-columns:minmax(210px,34%) minmax(150px,1fr) 80px 18px;gap:14px;min-height:80px;padding:10px 6px}
+.course-title{gap:4px}
+.course-title>bdi{font-size:12px}
+.course-title strong{font-size:14px;font-weight:600;line-height:1.5}
+.course-title small{font-size:11px}
+.course-meter{height:9px}
+.course-score{font-size:17px;font-weight:700}
+.course-arrow{font-size:19px}
+@media(max-width:1100px){.course-result{grid-template-columns:minmax(160px,38%) minmax(55px,1fr) 68px 14px;gap:8px}.course-title strong{font-size:13px}.course-score{font-size:15px}}
+@media(max-width:700px){.university-logo{width:43px;height:43px}.identity strong{font-size:15px}.identity small{font-size:9px}.results-panel{padding:17px}.course-result{grid-template-columns:minmax(0,1fr) 64px 14px;gap:9px;min-height:76px}.course-title strong{font-size:13px}.course-meter{display:none}.course-score{font-size:15px}}
