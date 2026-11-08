@@ -1,0 +1,3250 @@
+[
+  {
+    "page": 2,
+    "printedPage": 14,
+    "semester": 1,
+    "code": "ECO101",
+    "title": "Introduction to Microeconomics"
+  },
+  {
+    "page": 2,
+    "printedPage": 14,
+    "semester": 1,
+    "code": "MTH101",
+    "title": "Introduction to Mathematics for Economics & Business"
+  },
+  {
+    "page": 2,
+    "printedPage": 14,
+    "semester": 1,
+    "code": "ACC101",
+    "title": "Financial Accounting 1"
+  },
+  {
+    "page": 2,
+    "printedPage": 14,
+    "semester": 1,
+    "code": "MGT101",
+    "title": "Introduction to Management"
+  },
+  {
+    "page": 2,
+    "printedPage": 14,
+    "semester": 1,
+    "code": "POL101",
+    "title": "Principles of Political Science"
+  },
+  {
+    "page": 2,
+    "printedPage": 14,
+    "semester": 1,
+    "code": "HM003",
+    "title": "English Language 1"
+  },
+  {
+    "page": 2,
+    "printedPage": 14,
+    "semester": 2,
+    "code": "ECO102",
+    "title": "Introduction to Macroeconomics"
+  },
+  {
+    "page": 2,
+    "printedPage": 14,
+    "semester": 2,
+    "code": "MTH102",
+    "title": "Financial Mathematics"
+  },
+  {
+    "page": 2,
+    "printedPage": 14,
+    "semester": 2,
+    "code": "ACC102",
+    "title": "Financial Accounting 2"
+  },
+  {
+    "page": 2,
+    "printedPage": 14,
+    "semester": 2,
+    "code": "MGT102",
+    "title": "Introduction to Marketing."
+  },
+  {
+    "page": 2,
+    "printedPage": 14,
+    "semester": 2,
+    "code": "IST101",
+    "title": "Information System / Technology 1"
+  },
+  {
+    "page": 2,
+    "printedPage": 14,
+    "semester": 2,
+    "code": "HM004",
+    "title": "English Language 2"
+  },
+  {
+    "page": 3,
+    "printedPage": 15,
+    "semester": 3,
+    "code": "ECO203",
+    "title": "Money and Banking"
+  },
+  {
+    "page": 3,
+    "printedPage": 15,
+    "semester": 3,
+    "code": "MGT203",
+    "title": "Introduction to Human Resources Management."
+  },
+  {
+    "page": 3,
+    "printedPage": 15,
+    "semester": 3,
+    "code": "ACC203",
+    "title": "Intermediate Accounting 1"
+  },
+  {
+    "page": 3,
+    "printedPage": 15,
+    "semester": 3,
+    "code": "POL202",
+    "title": "Principles of Public Policies"
+  },
+  {
+    "page": 3,
+    "printedPage": 15,
+    "semester": 3,
+    "code": "HM006",
+    "title": "Human Rights & Anti-corruption"
+  },
+  {
+    "page": 3,
+    "printedPage": 15,
+    "semester": 3,
+    "code": "IST202",
+    "title": "Information System / Technology 2"
+  },
+  {
+    "page": 3,
+    "printedPage": 15,
+    "semester": 3,
+    "code": "HM001",
+    "title": "Russian Language 1"
+  },
+  {
+    "page": 3,
+    "printedPage": 15,
+    "semester": 4,
+    "code": "ECO204",
+    "title": "International Economics"
+  },
+  {
+    "page": 3,
+    "printedPage": 15,
+    "semester": 4,
+    "code": "FIN201",
+    "title": "principles of finance and investment"
+  },
+  {
+    "page": 3,
+    "printedPage": 15,
+    "semester": 4,
+    "code": "ACC204",
+    "title": "Intermediate Accounting 2"
+  },
+  {
+    "page": 3,
+    "printedPage": 15,
+    "semester": 4,
+    "code": "POL203",
+    "title": "Principles of International Relations"
+  },
+  {
+    "page": 3,
+    "printedPage": 15,
+    "semester": 4,
+    "code": "HM005",
+    "title": "Scientific Thinking"
+  },
+  {
+    "page": 3,
+    "printedPage": 15,
+    "semester": 4,
+    "code": "STA201",
+    "title": "Introduction to Statistics"
+  },
+  {
+    "page": 3,
+    "printedPage": 15,
+    "semester": 4,
+    "code": "HM002",
+    "title": "Russian Language 2"
+  },
+  {
+    "page": 4,
+    "printedPage": 16,
+    "semester": 5,
+    "code": "ECO305",
+    "title": "Economics of Public Finance."
+  },
+  {
+    "page": 4,
+    "printedPage": 16,
+    "semester": 5,
+    "code": "MGT304",
+    "title": "Organization behavior"
+  },
+  {
+    "page": 4,
+    "printedPage": 16,
+    "semester": 5,
+    "code": "MGT305",
+    "title": "Entrepreneurship & Small Enterprises Management."
+  },
+  {
+    "page": 4,
+    "printedPage": 16,
+    "semester": 5,
+    "code": "STA302",
+    "title": "Applied Statistics."
+  },
+  {
+    "page": 4,
+    "printedPage": 16,
+    "semester": 5,
+    "code": "ACC305",
+    "title": "Cost Accounting 1"
+  },
+  {
+    "page": 4,
+    "printedPage": 16,
+    "semester": 5,
+    "code": "MGT306",
+    "title": "Production & Operations Management"
+  },
+  {
+    "page": 4,
+    "printedPage": 16,
+    "semester": 6,
+    "code": "ECO308",
+    "title": "Development Economics."
+  },
+  {
+    "page": 4,
+    "printedPage": 16,
+    "semester": 6,
+    "code": "LAW301",
+    "title": "Business Law."
+  },
+  {
+    "page": 4,
+    "printedPage": 16,
+    "semester": 6,
+    "code": "MGT307",
+    "title": "Business Ethics & Corporate Social Responsibility"
+  },
+  {
+    "page": 4,
+    "printedPage": 16,
+    "semester": 6,
+    "code": "MGT308",
+    "title": "Supply Chain Management"
+  },
+  {
+    "page": 4,
+    "printedPage": 16,
+    "semester": 6,
+    "code": "MGT309",
+    "title": "International Business Management"
+  },
+  {
+    "page": 4,
+    "printedPage": 16,
+    "semester": 6,
+    "code": "MGT310",
+    "title": "Innovation and Leadership"
+  },
+  {
+    "page": 4,
+    "printedPage": 16,
+    "semester": 6,
+    "code": "MGT311",
+    "title": "Management Information Systems"
+  },
+  {
+    "page": 4,
+    "printedPage": 16,
+    "semester": 6,
+    "code": "MGT312",
+    "title": "Public Administration"
+  },
+  {
+    "page": 5,
+    "printedPage": 17,
+    "semester": 7,
+    "code": "HM009",
+    "title": "Scientific Research Methodology"
+  },
+  {
+    "page": 5,
+    "printedPage": 17,
+    "semester": 7,
+    "code": "SCM401",
+    "title": "Operations Management"
+  },
+  {
+    "page": 5,
+    "printedPage": 17,
+    "semester": 7,
+    "code": "SCM402",
+    "title": "Purchasing and Materials Management"
+  },
+  {
+    "page": 5,
+    "printedPage": 17,
+    "semester": 7,
+    "code": "SCM403",
+    "title": "Inventory and Warehousing Management"
+  },
+  {
+    "page": 5,
+    "printedPage": 17,
+    "semester": 7,
+    "code": "SCM404",
+    "title": "Transportation and Freight Logistics"
+  },
+  {
+    "page": 5,
+    "printedPage": 17,
+    "semester": 7,
+    "code": "SCM405",
+    "title": "Distribution Channels Management"
+  },
+  {
+    "page": 5,
+    "printedPage": 17,
+    "semester": 7,
+    "code": "MGT413",
+    "title": "Public Relations"
+  },
+  {
+    "page": 5,
+    "printedPage": 17,
+    "semester": 7,
+    "code": "MGT414",
+    "title": "Negotiation Skills Management"
+  },
+  {
+    "page": 5,
+    "printedPage": 17,
+    "semester": 8,
+    "code": "SCM406",
+    "title": "Supply Chain Planning and Control"
+  },
+  {
+    "page": 5,
+    "printedPage": 17,
+    "semester": 8,
+    "code": "SCM407",
+    "title": "Global Logistics"
+  },
+  {
+    "page": 5,
+    "printedPage": 17,
+    "semester": 8,
+    "code": "SCM408",
+    "title": "Business Analytics for decision making"
+  },
+  {
+    "page": 5,
+    "printedPage": 17,
+    "semester": 8,
+    "code": "MGT415",
+    "title": "Graduation Project (dissertation)"
+  },
+  {
+    "page": 5,
+    "printedPage": 17,
+    "semester": 8,
+    "code": "SCM409",
+    "title": "Simulation of logistics"
+  },
+  {
+    "page": 5,
+    "printedPage": 17,
+    "semester": 8,
+    "code": "ACC412",
+    "title": "Managerial Accounting"
+  },
+  {
+    "page": 5,
+    "printedPage": 17,
+    "semester": 8,
+    "code": "MIS409",
+    "title": "Project Management"
+  },
+  {
+    "page": 7,
+    "printedPage": 19,
+    "semester": 7,
+    "code": "HM009",
+    "title": "Scientific Research Methodology"
+  },
+  {
+    "page": 7,
+    "printedPage": 19,
+    "semester": 7,
+    "code": "MKT401",
+    "title": "Marketing Research"
+  },
+  {
+    "page": 7,
+    "printedPage": 19,
+    "semester": 7,
+    "code": "MKT402",
+    "title": "Consumer Behavior"
+  },
+  {
+    "page": 7,
+    "printedPage": 19,
+    "semester": 7,
+    "code": "MKT403",
+    "title": "Integrated Marketing Communications"
+  },
+  {
+    "page": 7,
+    "printedPage": 19,
+    "semester": 7,
+    "code": "MKT404",
+    "title": "E-Marketing"
+  },
+  {
+    "page": 7,
+    "printedPage": 19,
+    "semester": 7,
+    "code": "MKT405",
+    "title": "New Product Planning"
+  },
+  {
+    "page": 7,
+    "printedPage": 19,
+    "semester": 7,
+    "code": "MGT413",
+    "title": "Public Relations"
+  },
+  {
+    "page": 7,
+    "printedPage": 19,
+    "semester": 7,
+    "code": "ACC412",
+    "title": "Managerial Accounting"
+  },
+  {
+    "page": 7,
+    "printedPage": 19,
+    "semester": 8,
+    "code": "SCM405",
+    "title": "Distribution Channels Management"
+  },
+  {
+    "page": 7,
+    "printedPage": 19,
+    "semester": 8,
+    "code": "MGT416",
+    "title": "Strategic Management"
+  },
+  {
+    "page": 7,
+    "printedPage": 19,
+    "semester": 8,
+    "code": "MKT406",
+    "title": "Brand Management"
+  },
+  {
+    "page": 7,
+    "printedPage": 19,
+    "semester": 8,
+    "code": "MGT415",
+    "title": "Graduation Project (dissertation)."
+  },
+  {
+    "page": 7,
+    "printedPage": 19,
+    "semester": 8,
+    "code": "MKT407",
+    "title": "Marketing Strategy"
+  },
+  {
+    "page": 7,
+    "printedPage": 19,
+    "semester": 8,
+    "code": "MKT408",
+    "title": "International Marketing"
+  },
+  {
+    "page": 7,
+    "printedPage": 19,
+    "semester": 8,
+    "code": "MKT409",
+    "title": "Industrial Marketing Management"
+  },
+  {
+    "page": 9,
+    "printedPage": 21,
+    "semester": 7,
+    "code": "HM009",
+    "title": "Scientific Research Methodology"
+  },
+  {
+    "page": 9,
+    "printedPage": 21,
+    "semester": 7,
+    "code": "HRM401",
+    "title": "Advanced Human Resources"
+  },
+  {
+    "page": 9,
+    "printedPage": 21,
+    "semester": 7,
+    "code": "HRM402",
+    "title": "International Human Resource Management"
+  },
+  {
+    "page": 9,
+    "printedPage": 21,
+    "semester": 7,
+    "code": "MGT413",
+    "title": "Public Relations"
+  },
+  {
+    "page": 9,
+    "printedPage": 21,
+    "semester": 7,
+    "code": "HRM403",
+    "title": "Human Resources Information System"
+  },
+  {
+    "page": 9,
+    "printedPage": 21,
+    "semester": 7,
+    "code": "HRM404",
+    "title": "Human Resource Development"
+  },
+  {
+    "page": 9,
+    "printedPage": 21,
+    "semester": 7,
+    "code": "MGT417",
+    "title": "Business Feasibility Study"
+  },
+  {
+    "page": 9,
+    "printedPage": 21,
+    "semester": 7,
+    "code": "ACC412",
+    "title": "Managerial Accounting"
+  },
+  {
+    "page": 9,
+    "printedPage": 21,
+    "semester": 8,
+    "code": "LAW402",
+    "title": "Labor Law"
+  },
+  {
+    "page": 9,
+    "printedPage": 21,
+    "semester": 8,
+    "code": "MGT416",
+    "title": "Strategic Management"
+  },
+  {
+    "page": 9,
+    "printedPage": 21,
+    "semester": 8,
+    "code": "HRM405",
+    "title": "Contemporary Issues in Human Resources Management"
+  },
+  {
+    "page": 9,
+    "printedPage": 21,
+    "semester": 8,
+    "code": "MGT415",
+    "title": "Graduation Project (dissertation)."
+  },
+  {
+    "page": 9,
+    "printedPage": 21,
+    "semester": 8,
+    "code": "HRM406",
+    "title": "Strategic Management of Human Resources"
+  },
+  {
+    "page": 9,
+    "printedPage": 21,
+    "semester": 8,
+    "code": "HRM407",
+    "title": "Human Resource Planning"
+  },
+  {
+    "page": 9,
+    "printedPage": 21,
+    "semester": 8,
+    "code": "MGT414",
+    "title": "Negotiation Skills Management"
+  },
+  {
+    "page": 10,
+    "printedPage": 22,
+    "semester": 7,
+    "code": "HM009",
+    "title": "Scientific Research Methodology"
+  },
+  {
+    "page": 10,
+    "printedPage": 22,
+    "semester": 7,
+    "code": "MGT418",
+    "title": "Organizational Change & Development"
+  },
+  {
+    "page": 10,
+    "printedPage": 22,
+    "semester": 7,
+    "code": "MGT419",
+    "title": "Leadership in Organization"
+  },
+  {
+    "page": 10,
+    "printedPage": 22,
+    "semester": 7,
+    "code": "MGT420",
+    "title": "Crises Management"
+  },
+  {
+    "page": 10,
+    "printedPage": 22,
+    "semester": 7,
+    "code": "MGT421",
+    "title": "Material Management"
+  },
+  {
+    "page": 10,
+    "printedPage": 22,
+    "semester": 7,
+    "code": "MGT413",
+    "title": "Public Relations"
+  },
+  {
+    "page": 10,
+    "printedPage": 22,
+    "semester": 7,
+    "code": "MGT417",
+    "title": "Business Feasibility Study"
+  },
+  {
+    "page": 10,
+    "printedPage": 22,
+    "semester": 7,
+    "code": "ACC412",
+    "title": "Managerial Accounting"
+  },
+  {
+    "page": 10,
+    "printedPage": 22,
+    "semester": 8,
+    "code": "MGT422",
+    "title": "Managerial Skills"
+  },
+  {
+    "page": 10,
+    "printedPage": 22,
+    "semester": 8,
+    "code": "MGT416",
+    "title": "Strategic Management"
+  },
+  {
+    "page": 10,
+    "printedPage": 22,
+    "semester": 8,
+    "code": "MGT423",
+    "title": "Contemporary Issues in Business Management"
+  },
+  {
+    "page": 10,
+    "printedPage": 22,
+    "semester": 8,
+    "code": "MGT415",
+    "title": "Graduation Project (dissertation)"
+  },
+  {
+    "page": 10,
+    "printedPage": 22,
+    "semester": 8,
+    "code": "MGT424",
+    "title": "Career Planning"
+  },
+  {
+    "page": 10,
+    "printedPage": 22,
+    "semester": 8,
+    "code": "MGT425",
+    "title": "Quality Management"
+  },
+  {
+    "page": 10,
+    "printedPage": 22,
+    "semester": 8,
+    "code": "MGT426",
+    "title": "E-Commerce"
+  },
+  {
+    "page": 12,
+    "printedPage": 24,
+    "semester": 5,
+    "code": "ECO305",
+    "title": "Economics of Public finance."
+  },
+  {
+    "page": 12,
+    "printedPage": 24,
+    "semester": 5,
+    "code": "MGT304",
+    "title": "Organization behavior"
+  },
+  {
+    "page": 12,
+    "printedPage": 24,
+    "semester": 5,
+    "code": "MGT305",
+    "title": "Entrepreneurship & Small Business Management."
+  },
+  {
+    "page": 12,
+    "printedPage": 24,
+    "semester": 5,
+    "code": "STA302",
+    "title": "Applied Statistics."
+  },
+  {
+    "page": 12,
+    "printedPage": 24,
+    "semester": 5,
+    "code": "ACC305",
+    "title": "Cost Accounting 1."
+  },
+  {
+    "page": 12,
+    "printedPage": 24,
+    "semester": 5,
+    "code": "FIN302",
+    "title": "Corporate finance"
+  },
+  {
+    "page": 12,
+    "printedPage": 24,
+    "semester": 6,
+    "code": "ECO308",
+    "title": "Development Economics."
+  },
+  {
+    "page": 12,
+    "printedPage": 24,
+    "semester": 6,
+    "code": "LAW301",
+    "title": "Business Law."
+  },
+  {
+    "page": 12,
+    "printedPage": 24,
+    "semester": 6,
+    "code": "FIN303",
+    "title": "SMEs finance"
+  },
+  {
+    "page": 12,
+    "printedPage": 24,
+    "semester": 6,
+    "code": "FIN304",
+    "title": "Financial technologies (Fintech)"
+  },
+  {
+    "page": 12,
+    "printedPage": 24,
+    "semester": 6,
+    "code": "FIN305",
+    "title": "Financial markets and institutions"
+  },
+  {
+    "page": 12,
+    "printedPage": 24,
+    "semester": 6,
+    "code": "ACC226",
+    "title": "Fundamentals of Managerial Accounting"
+  },
+  {
+    "page": 12,
+    "printedPage": 24,
+    "semester": 6,
+    "code": "FIN314",
+    "title": "Financial risk management"
+  },
+  {
+    "page": 12,
+    "printedPage": 24,
+    "semester": 6,
+    "code": "MGT416",
+    "title": "Strategic management"
+  },
+  {
+    "page": 13,
+    "printedPage": 25,
+    "semester": 7,
+    "code": "HM009",
+    "title": "Scientific Research Methodology"
+  },
+  {
+    "page": 13,
+    "printedPage": 25,
+    "semester": 7,
+    "code": "FIN406",
+    "title": "Investment Analysis"
+  },
+  {
+    "page": 13,
+    "printedPage": 25,
+    "semester": 7,
+    "code": "FIN407",
+    "title": "Big data and business analytics"
+  },
+  {
+    "page": 13,
+    "printedPage": 25,
+    "semester": 7,
+    "code": "FIN408",
+    "title": "International finance"
+  },
+  {
+    "page": 13,
+    "printedPage": 25,
+    "semester": 7,
+    "code": "FIN409",
+    "title": "Banking management"
+  },
+  {
+    "page": 13,
+    "printedPage": 25,
+    "semester": 7,
+    "code": "MGT417",
+    "title": "Business feasibility study"
+  },
+  {
+    "page": 13,
+    "printedPage": 25,
+    "semester": 7,
+    "code": "FIN415",
+    "title": "Islamic finance"
+  },
+  {
+    "page": 13,
+    "printedPage": 25,
+    "semester": 7,
+    "code": "FIN416",
+    "title": "Corporate governance"
+  },
+  {
+    "page": 13,
+    "printedPage": 25,
+    "semester": 8,
+    "code": "FIN410",
+    "title": "Investment portfolio management"
+  },
+  {
+    "page": 13,
+    "printedPage": 25,
+    "semester": 8,
+    "code": "FIN411",
+    "title": "Financial modeling and valuation"
+  },
+  {
+    "page": 13,
+    "printedPage": 25,
+    "semester": 8,
+    "code": "FIN412",
+    "title": "Behavioral finance"
+  },
+  {
+    "page": 13,
+    "printedPage": 25,
+    "semester": 8,
+    "code": "FIN413",
+    "title": "Graduation Project (dissertation)."
+  },
+  {
+    "page": 13,
+    "printedPage": 25,
+    "semester": 8,
+    "code": "FIN417",
+    "title": "Econometrics for finance"
+  },
+  {
+    "page": 13,
+    "printedPage": 25,
+    "semester": 8,
+    "code": "FIN418",
+    "title": "Mergers, acquisitions and restructurings"
+  },
+  {
+    "page": 13,
+    "printedPage": 25,
+    "semester": 8,
+    "code": "ECO415",
+    "title": "International monetary and financial systems"
+  },
+  {
+    "page": 16,
+    "printedPage": 28,
+    "semester": 5,
+    "code": "ECO305",
+    "title": "Economics of Public Finance."
+  },
+  {
+    "page": 16,
+    "printedPage": 28,
+    "semester": 5,
+    "code": "MGT304",
+    "title": "Organization behavior"
+  },
+  {
+    "page": 16,
+    "printedPage": 28,
+    "semester": 5,
+    "code": "MGT305",
+    "title": "Entrepreneurship & Small Enterprises Management."
+  },
+  {
+    "page": 16,
+    "printedPage": 28,
+    "semester": 5,
+    "code": "STA302",
+    "title": "Applied Statistics."
+  },
+  {
+    "page": 16,
+    "printedPage": 28,
+    "semester": 5,
+    "code": "ACC305",
+    "title": "Cost Accounting 1."
+  },
+  {
+    "page": 16,
+    "printedPage": 28,
+    "semester": 5,
+    "code": "ACC306",
+    "title": "Governmental and Not-For-Profit Accounting."
+  },
+  {
+    "page": 16,
+    "printedPage": 28,
+    "semester": 6,
+    "code": "ECO308",
+    "title": "Development Economics."
+  },
+  {
+    "page": 16,
+    "printedPage": 28,
+    "semester": 6,
+    "code": "LAW301",
+    "title": "Business Law."
+  },
+  {
+    "page": 16,
+    "printedPage": 28,
+    "semester": 6,
+    "code": "ACC307",
+    "title": "Tax Accounting."
+  },
+  {
+    "page": 16,
+    "printedPage": 28,
+    "semester": 6,
+    "code": "ACC308",
+    "title": "Auditing"
+  },
+  {
+    "page": 16,
+    "printedPage": 28,
+    "semester": 6,
+    "code": "ACC309",
+    "title": "Cost Accounting 2"
+  },
+  {
+    "page": 16,
+    "printedPage": 28,
+    "semester": 6,
+    "code": "ACC310",
+    "title": "International Accounting."
+  },
+  {
+    "page": 16,
+    "printedPage": 28,
+    "semester": 6,
+    "code": "ACC311",
+    "title": "Fair-Value Accounting."
+  },
+  {
+    "page": 16,
+    "printedPage": 28,
+    "semester": 6,
+    "code": "MGT307",
+    "title": "Business Ethics and Corporate Social Responsibility."
+  },
+  {
+    "page": 17,
+    "printedPage": 29,
+    "semester": 7,
+    "code": "HM009",
+    "title": "Scientific Research Methodology."
+  },
+  {
+    "page": 17,
+    "printedPage": 29,
+    "semester": 7,
+    "code": "ACC412",
+    "title": "Managerial Accounting."
+  },
+  {
+    "page": 17,
+    "printedPage": 29,
+    "semester": 7,
+    "code": "ACC413",
+    "title": "Accounting for Financial Institutions."
+  },
+  {
+    "page": 17,
+    "printedPage": 29,
+    "semester": 7,
+    "code": "ACC414",
+    "title": "Operations Research in Accounting."
+  },
+  {
+    "page": 17,
+    "printedPage": 29,
+    "semester": 7,
+    "code": "ACC415",
+    "title": "Advanced Auditing."
+  },
+  {
+    "page": 17,
+    "printedPage": 29,
+    "semester": 7,
+    "code": "ACC416",
+    "title": "Computerized Accounting 1."
+  },
+  {
+    "page": 17,
+    "printedPage": 29,
+    "semester": 7,
+    "code": "ACC417",
+    "title": "Accounting for Derivatives."
+  },
+  {
+    "page": 17,
+    "printedPage": 29,
+    "semester": 7,
+    "code": "MGT417",
+    "title": "Business Feasibility Study."
+  },
+  {
+    "page": 17,
+    "printedPage": 29,
+    "semester": 8,
+    "code": "ACC419",
+    "title": "Forensic Accounting."
+  },
+  {
+    "page": 17,
+    "printedPage": 29,
+    "semester": 8,
+    "code": "ACC420",
+    "title": "Contemporary Issues in Accounting and Auditing."
+  },
+  {
+    "page": 17,
+    "printedPage": 29,
+    "semester": 8,
+    "code": "ACC421",
+    "title": "Advanced Accounting."
+  },
+  {
+    "page": 17,
+    "printedPage": 29,
+    "semester": 8,
+    "code": "ACC418",
+    "title": "Graduation Project (dissertation)."
+  },
+  {
+    "page": 17,
+    "printedPage": 29,
+    "semester": 8,
+    "code": "ACC422",
+    "title": "Computerized Accounting 2"
+  },
+  {
+    "page": 17,
+    "printedPage": 29,
+    "semester": 8,
+    "code": "ACC423",
+    "title": "Advanced Managerial Accounting."
+  },
+  {
+    "page": 17,
+    "printedPage": 29,
+    "semester": 8,
+    "code": "ACC424",
+    "title": "Information Systems Audit."
+  },
+  {
+    "page": 20,
+    "printedPage": 32,
+    "semester": 5,
+    "code": "ECO305",
+    "title": "Economics of Public finance."
+  },
+  {
+    "page": 20,
+    "printedPage": 32,
+    "semester": 5,
+    "code": "MGT304",
+    "title": "Organizational behavior"
+  },
+  {
+    "page": 20,
+    "printedPage": 32,
+    "semester": 5,
+    "code": "MGT305",
+    "title": "Entrepreneurship & Small Business Management."
+  },
+  {
+    "page": 20,
+    "printedPage": 32,
+    "semester": 5,
+    "code": "STA302",
+    "title": "Applied Statistics."
+  },
+  {
+    "page": 20,
+    "printedPage": 32,
+    "semester": 5,
+    "code": "ECO306",
+    "title": "Microeconomic Theory."
+  },
+  {
+    "page": 20,
+    "printedPage": 32,
+    "semester": 5,
+    "code": "ECO307",
+    "title": "Mathematical Economics."
+  },
+  {
+    "page": 20,
+    "printedPage": 32,
+    "semester": 6,
+    "code": "ECO308",
+    "title": "Development Economics."
+  },
+  {
+    "page": 20,
+    "printedPage": 32,
+    "semester": 6,
+    "code": "LAW301",
+    "title": "Business Law."
+  },
+  {
+    "page": 20,
+    "printedPage": 32,
+    "semester": 6,
+    "code": "ECO309",
+    "title": "Macroeconomic Theory"
+  },
+  {
+    "page": 20,
+    "printedPage": 32,
+    "semester": 6,
+    "code": "ECO310",
+    "title": "Econometrics 1"
+  },
+  {
+    "page": 20,
+    "printedPage": 32,
+    "semester": 6,
+    "code": "ECO311",
+    "title": "Labor Economics"
+  },
+  {
+    "page": 21,
+    "printedPage": 33,
+    "semester": 7,
+    "code": "HM009",
+    "title": "Scientific Research Methodology"
+  },
+  {
+    "page": 21,
+    "printedPage": 33,
+    "semester": 7,
+    "code": "ECO414",
+    "title": "Econometrics for time series"
+  },
+  {
+    "page": 21,
+    "printedPage": 33,
+    "semester": 7,
+    "code": "ECO415",
+    "title": "International Monetary and .Financial Systems"
+  },
+  {
+    "page": 21,
+    "printedPage": 33,
+    "semester": 7,
+    "code": "MGT417",
+    "title": "Business Feasibility Study"
+  },
+  {
+    "page": 21,
+    "printedPage": 33,
+    "semester": 7,
+    "code": "ECO416",
+    "title": "Economic Policy and Analysis"
+  },
+  {
+    "page": 21,
+    "printedPage": 33,
+    "semester": 7,
+    "code": "ECO417",
+    "title": "Economics of Egypt and Africa"
+  },
+  {
+    "page": 21,
+    "printedPage": 33,
+    "semester": 7,
+    "code": "ECO418",
+    "title": "Health economics"
+  },
+  {
+    "page": 21,
+    "printedPage": 33,
+    "semester": 7,
+    "code": "MGT416",
+    "title": "Strategic Management"
+  },
+  {
+    "page": 21,
+    "printedPage": 33,
+    "semester": 8,
+    "code": "ECO419",
+    "title": "history of economic thoughts"
+  },
+  {
+    "page": 21,
+    "printedPage": 33,
+    "semester": 8,
+    "code": "ECO420",
+    "title": "industrial economics"
+  },
+  {
+    "page": 21,
+    "printedPage": 33,
+    "semester": 8,
+    "code": "ECO421",
+    "title": "contemporary economic issues"
+  },
+  {
+    "page": 21,
+    "printedPage": 33,
+    "semester": 8,
+    "code": "ECO422",
+    "title": "Graduation project (dissertation)"
+  },
+  {
+    "page": 21,
+    "printedPage": 33,
+    "semester": 8,
+    "code": "ECO423",
+    "title": "welfare economics"
+  },
+  {
+    "page": 21,
+    "printedPage": 33,
+    "semester": 8,
+    "code": "ECO424",
+    "title": "Business Data Forecasting"
+  },
+  {
+    "page": 21,
+    "printedPage": 33,
+    "semester": 8,
+    "code": "ECO425",
+    "title": "Information Economics"
+  },
+  {
+    "page": 23,
+    "printedPage": 35,
+    "semester": 5,
+    "code": "ECO305",
+    "title": "Economics of Public Finance."
+  },
+  {
+    "page": 23,
+    "printedPage": 35,
+    "semester": 5,
+    "code": "MGT304",
+    "title": "Organization behavior"
+  },
+  {
+    "page": 23,
+    "printedPage": 35,
+    "semester": 5,
+    "code": "STA302",
+    "title": "Applied Statistics"
+  },
+  {
+    "page": 23,
+    "printedPage": 35,
+    "semester": 5,
+    "code": "POL304",
+    "title": "Comparative Politics"
+  },
+  {
+    "page": 23,
+    "printedPage": 35,
+    "semester": 5,
+    "code": "POL305",
+    "title": "Political thought"
+  },
+  {
+    "page": 23,
+    "printedPage": 35,
+    "semester": 5,
+    "code": "POL306",
+    "title": "Advanced International Relations"
+  },
+  {
+    "page": 23,
+    "printedPage": 35,
+    "semester": 6,
+    "code": "ECO308",
+    "title": "Development Economics"
+  },
+  {
+    "page": 23,
+    "printedPage": 35,
+    "semester": 6,
+    "code": "POL307",
+    "title": "Modern Political Theory"
+  },
+  {
+    "page": 23,
+    "printedPage": 35,
+    "semester": 6,
+    "code": "POL308",
+    "title": "Public opinion and political commination"
+  },
+  {
+    "page": 23,
+    "printedPage": 35,
+    "semester": 6,
+    "code": "POL309",
+    "title": "Comparative Public Policies"
+  },
+  {
+    "page": 23,
+    "printedPage": 35,
+    "semester": 6,
+    "code": "POL310",
+    "title": "Theory of Foreign Policy Analysis"
+  },
+  {
+    "page": 23,
+    "printedPage": 35,
+    "semester": 6,
+    "code": "POL311",
+    "title": "Contemporary Ideologies"
+  },
+  {
+    "page": 23,
+    "printedPage": 35,
+    "semester": 6,
+    "code": "POL312",
+    "title": "Geopolitics"
+  },
+  {
+    "page": 23,
+    "printedPage": 35,
+    "semester": 6,
+    "code": "POL313",
+    "title": "Civil Society"
+  },
+  {
+    "page": 24,
+    "printedPage": 36,
+    "semester": 7,
+    "code": "HM009",
+    "title": "Scientific Research Methodology"
+  },
+  {
+    "page": 24,
+    "printedPage": 36,
+    "semester": 7,
+    "code": "POL414",
+    "title": "Middle East & Arab World Affairs"
+  },
+  {
+    "page": 24,
+    "printedPage": 36,
+    "semester": 7,
+    "code": "POL415",
+    "title": "Strategic Studies"
+  },
+  {
+    "page": 24,
+    "printedPage": 36,
+    "semester": 7,
+    "code": "POL416",
+    "title": "International Organizations"
+  },
+  {
+    "page": 24,
+    "printedPage": 36,
+    "semester": 7,
+    "code": "POL417",
+    "title": "International Law & Consular Systems"
+  },
+  {
+    "page": 24,
+    "printedPage": 36,
+    "semester": 7,
+    "code": "POL418",
+    "title": "Global Political Economy"
+  },
+  {
+    "page": 24,
+    "printedPage": 36,
+    "semester": 7,
+    "code": "POL419",
+    "title": "Politics of Regional blocs"
+  },
+  {
+    "page": 24,
+    "printedPage": 36,
+    "semester": 7,
+    "code": "POL420",
+    "title": "Conflicts Resolution"
+  },
+  {
+    "page": 24,
+    "printedPage": 36,
+    "semester": 8,
+    "code": "POL421",
+    "title": "International Contemporary Issues"
+  },
+  {
+    "page": 24,
+    "printedPage": 36,
+    "semester": 8,
+    "code": "POL422",
+    "title": "Arab Israeli Conflict"
+  },
+  {
+    "page": 24,
+    "printedPage": 36,
+    "semester": 8,
+    "code": "POL423",
+    "title": "Egyptian Foreign Policy"
+  },
+  {
+    "page": 24,
+    "printedPage": 36,
+    "semester": 8,
+    "code": "POL424",
+    "title": "Graduation project (dissertation)"
+  },
+  {
+    "page": 24,
+    "printedPage": 36,
+    "semester": 8,
+    "code": "POL425",
+    "title": "International Negotiations"
+  },
+  {
+    "page": 24,
+    "printedPage": 36,
+    "semester": 8,
+    "code": "POL426",
+    "title": "African Studies"
+  },
+  {
+    "page": 24,
+    "printedPage": 36,
+    "semester": 8,
+    "code": "POL427",
+    "title": "New media And Public Diplomacy"
+  },
+  {
+    "page": 25,
+    "printedPage": 37,
+    "semester": 1,
+    "code": "ECO101",
+    "title": "Introduction to Microeconomics"
+  },
+  {
+    "page": 25,
+    "printedPage": 37,
+    "semester": 1,
+    "code": "MTH103",
+    "title": "Mathematics"
+  },
+  {
+    "page": 25,
+    "printedPage": 37,
+    "semester": 1,
+    "code": "POL101",
+    "title": "Principles of Political Science"
+  },
+  {
+    "page": 25,
+    "printedPage": 37,
+    "semester": 1,
+    "code": "IST103",
+    "title": "Fundamentals of Information Systems."
+  },
+  {
+    "page": 25,
+    "printedPage": 37,
+    "semester": 1,
+    "code": "COS101",
+    "title": "Introduction to Computer Science"
+  },
+  {
+    "page": 25,
+    "printedPage": 37,
+    "semester": 1,
+    "code": "MGT101",
+    "title": "Introduction to Management"
+  },
+  {
+    "page": 25,
+    "printedPage": 37,
+    "semester": 1,
+    "code": "HM003",
+    "title": "English language 1"
+  },
+  {
+    "page": 25,
+    "printedPage": 37,
+    "semester": 2,
+    "code": "ECO102",
+    "title": "Introduction to Macroeconomics"
+  },
+  {
+    "page": 25,
+    "printedPage": 37,
+    "semester": 2,
+    "code": "POL203",
+    "title": "Principles of International Relations"
+  },
+  {
+    "page": 25,
+    "printedPage": 37,
+    "semester": 2,
+    "code": "COS102",
+    "title": "Introduction to programming."
+  },
+  {
+    "page": 25,
+    "printedPage": 37,
+    "semester": 2,
+    "code": "IST204",
+    "title": "Database Systems 1"
+  },
+  {
+    "page": 25,
+    "printedPage": 37,
+    "semester": 2,
+    "code": "STA103",
+    "title": "Statistics and probability 1"
+  },
+  {
+    "page": 25,
+    "printedPage": 37,
+    "semester": 2,
+    "code": "HM004",
+    "title": "English language 2"
+  },
+  {
+    "page": 26,
+    "printedPage": 38,
+    "semester": 3,
+    "code": "ECO306",
+    "title": "Microeconomic Theory."
+  },
+  {
+    "page": 26,
+    "printedPage": 38,
+    "semester": 3,
+    "code": "STA204",
+    "title": "Probability and statistics 2."
+  },
+  {
+    "page": 26,
+    "printedPage": 38,
+    "semester": 3,
+    "code": "HM006",
+    "title": "Human Rights & Anticorruption."
+  },
+  {
+    "page": 26,
+    "printedPage": 38,
+    "semester": 3,
+    "code": "ECO307",
+    "title": "Mathematical Economics."
+  },
+  {
+    "page": 26,
+    "printedPage": 38,
+    "semester": 3,
+    "code": "ECO203",
+    "title": "Money & Banking."
+  },
+  {
+    "page": 26,
+    "printedPage": 38,
+    "semester": 3,
+    "code": "COS203",
+    "title": "Object oriented programming."
+  },
+  {
+    "page": 26,
+    "printedPage": 38,
+    "semester": 3,
+    "code": "HM001",
+    "title": "Russian language 1."
+  },
+  {
+    "page": 26,
+    "printedPage": 38,
+    "semester": 4,
+    "code": "ECO309",
+    "title": ".Macroeconomic Theory"
+  },
+  {
+    "page": 26,
+    "printedPage": 38,
+    "semester": 4,
+    "code": "ECO204",
+    "title": "International Economics"
+  },
+  {
+    "page": 26,
+    "printedPage": 38,
+    "semester": 4,
+    "code": "ECO310",
+    "title": "Econometrics"
+  },
+  {
+    "page": 26,
+    "printedPage": 38,
+    "semester": 4,
+    "code": "IST104",
+    "title": "System analysis and design – 1"
+  },
+  {
+    "page": 26,
+    "printedPage": 38,
+    "semester": 4,
+    "code": "HM005",
+    "title": "Scientific Thinking."
+  },
+  {
+    "page": 26,
+    "printedPage": 38,
+    "semester": 4,
+    "code": "BUA309",
+    "title": "Machine learning in social science"
+  },
+  {
+    "page": 26,
+    "printedPage": 38,
+    "semester": 4,
+    "code": "HM002",
+    "title": "Russian language 2."
+  },
+  {
+    "page": 27,
+    "printedPage": 39,
+    "semester": 5,
+    "code": "ECO414",
+    "title": "Econometrics for time series"
+  },
+  {
+    "page": 27,
+    "printedPage": 39,
+    "semester": 5,
+    "code": "ECO305",
+    "title": "Economics of Public finance."
+  },
+  {
+    "page": 27,
+    "printedPage": 39,
+    "semester": 5,
+    "code": "IST306",
+    "title": "Database Systems 2"
+  },
+  {
+    "page": 27,
+    "printedPage": 39,
+    "semester": 5,
+    "code": "BUA308",
+    "title": "Data analysis for business applications."
+  },
+  {
+    "page": 27,
+    "printedPage": 39,
+    "semester": 5,
+    "code": "ECO427",
+    "title": "International finance and banking"
+  },
+  {
+    "page": 27,
+    "printedPage": 39,
+    "semester": 5,
+    "code": "POL418",
+    "title": "Global Political Economy"
+  },
+  {
+    "page": 27,
+    "printedPage": 39,
+    "semester": 6,
+    "code": "MGT101",
+    "title": "Introduction to Management"
+  },
+  {
+    "page": 27,
+    "printedPage": 39,
+    "semester": 6,
+    "code": "LAW303",
+    "title": "Innovation, Digital Technologies, and Law"
+  },
+  {
+    "page": 27,
+    "printedPage": 39,
+    "semester": 6,
+    "code": "ECO312",
+    "title": "Financial Economics"
+  },
+  {
+    "page": 27,
+    "printedPage": 39,
+    "semester": 6,
+    "code": "ECO428",
+    "title": "Economic modelling"
+  },
+  {
+    "page": 27,
+    "printedPage": 39,
+    "semester": 6,
+    "code": "ECO419",
+    "title": "History of economic thoughts"
+  },
+  {
+    "page": 27,
+    "printedPage": 39,
+    "semester": 6,
+    "code": "ECO425",
+    "title": "Information Economics"
+  },
+  {
+    "page": 27,
+    "printedPage": 39,
+    "semester": 6,
+    "code": "ECO423",
+    "title": "Welfare economics"
+  },
+  {
+    "page": 27,
+    "printedPage": 39,
+    "semester": 6,
+    "code": "POL308",
+    "title": "Public opinion and political commination"
+  },
+  {
+    "page": 28,
+    "printedPage": 40,
+    "semester": 7,
+    "code": "HM009",
+    "title": "Scientific Research Methodology."
+  },
+  {
+    "page": 28,
+    "printedPage": 40,
+    "semester": 7,
+    "code": "ECO416",
+    "title": "Economic Policy and Analysis"
+  },
+  {
+    "page": 28,
+    "printedPage": 40,
+    "semester": 7,
+    "code": "ECO429",
+    "title": "FINTECH and Sharing economy"
+  },
+  {
+    "page": 28,
+    "printedPage": 40,
+    "semester": 7,
+    "code": "BUA410",
+    "title": "Data Science for Social studies"
+  },
+  {
+    "page": 28,
+    "printedPage": 40,
+    "semester": 7,
+    "code": "ECO311",
+    "title": "Labor Economics"
+  },
+  {
+    "page": 28,
+    "printedPage": 40,
+    "semester": 7,
+    "code": "ECO313",
+    "title": "Energy Economics"
+  },
+  {
+    "page": 28,
+    "printedPage": 40,
+    "semester": 7,
+    "code": "ECO415",
+    "title": "International Monetary and Financial Systems"
+  },
+  {
+    "page": 28,
+    "printedPage": 40,
+    "semester": 7,
+    "code": "POL312",
+    "title": "Geopolitics"
+  },
+  {
+    "page": 28,
+    "printedPage": 40,
+    "semester": 8,
+    "code": "ECO424",
+    "title": "Business Data Forecasting"
+  },
+  {
+    "page": 28,
+    "printedPage": 40,
+    "semester": 8,
+    "code": "ECO422",
+    "title": "Graduation project (dissertation)"
+  },
+  {
+    "page": 28,
+    "printedPage": 40,
+    "semester": 8,
+    "code": "MIS304",
+    "title": "Financial Information systems."
+  },
+  {
+    "page": 28,
+    "printedPage": 40,
+    "semester": 8,
+    "code": "ECO420",
+    "title": "Industrial Economics"
+  },
+  {
+    "page": 28,
+    "printedPage": 40,
+    "semester": 8,
+    "code": "ECO419",
+    "title": "Environmental and national resources economics"
+  },
+  {
+    "page": 28,
+    "printedPage": 40,
+    "semester": 8,
+    "code": "ECO421",
+    "title": "Contemporary Economic Issues"
+  },
+  {
+    "page": 28,
+    "printedPage": 40,
+    "semester": 8,
+    "code": "POL332",
+    "title": "Politics of Migration and Development"
+  },
+  {
+    "page": 30,
+    "printedPage": 42,
+    "semester": 3,
+    "code": "POL304",
+    "title": "Comparative Politics"
+  },
+  {
+    "page": 30,
+    "printedPage": 42,
+    "semester": 3,
+    "code": "STA204",
+    "title": "Statistics and probability 2"
+  },
+  {
+    "page": 30,
+    "printedPage": 42,
+    "semester": 3,
+    "code": "HM006",
+    "title": "Human Rights &"
+  },
+  {
+    "page": 30,
+    "printedPage": 42,
+    "semester": 3,
+    "code": "POL305",
+    "title": "Political Thought"
+  },
+  {
+    "page": 30,
+    "printedPage": 42,
+    "semester": 3,
+    "code": "POL306",
+    "title": "Advanced International"
+  },
+  {
+    "page": 30,
+    "printedPage": 42,
+    "semester": 3,
+    "code": "COS203",
+    "title": "Object oriented programming."
+  },
+  {
+    "page": 30,
+    "printedPage": 42,
+    "semester": 3,
+    "code": "HM001",
+    "title": "Russian language 1."
+  },
+  {
+    "page": 30,
+    "printedPage": 42,
+    "semester": 4,
+    "code": "POL307",
+    "title": "Modern Political Theory"
+  },
+  {
+    "page": 30,
+    "printedPage": 42,
+    "semester": 4,
+    "code": "POL310",
+    "title": "The Theory of Foreign Policy"
+  },
+  {
+    "page": 30,
+    "printedPage": 42,
+    "semester": 4,
+    "code": "POL309",
+    "title": "Comparative Public policies"
+  },
+  {
+    "page": 30,
+    "printedPage": 42,
+    "semester": 4,
+    "code": "COS304",
+    "title": "Data structures"
+  },
+  {
+    "page": 30,
+    "printedPage": 42,
+    "semester": 4,
+    "code": "HM005",
+    "title": "Scientific Thinking."
+  },
+  {
+    "page": 30,
+    "printedPage": 42,
+    "semester": 4,
+    "code": "DES201",
+    "title": "Machine learning in social"
+  },
+  {
+    "page": 30,
+    "printedPage": 42,
+    "semester": 4,
+    "code": "HM002",
+    "title": "Russian language 2."
+  },
+  {
+    "page": 31,
+    "printedPage": 43,
+    "semester": 5,
+    "code": "POL416",
+    "title": "International Organizations"
+  },
+  {
+    "page": 31,
+    "printedPage": 43,
+    "semester": 5,
+    "code": "POL417",
+    "title": "International Law & Consular Systems"
+  },
+  {
+    "page": 31,
+    "printedPage": 43,
+    "semester": 5,
+    "code": "IST306",
+    "title": "Database Systems 2"
+  },
+  {
+    "page": 31,
+    "printedPage": 43,
+    "semester": 5,
+    "code": "BUA308",
+    "title": "Data analysis for business applications."
+  },
+  {
+    "page": 31,
+    "printedPage": 43,
+    "semester": 5,
+    "code": "POL418",
+    "title": "Economics of Public Finance"
+  },
+  {
+    "page": 31,
+    "printedPage": 43,
+    "semester": 5,
+    "code": "ECO305",
+    "title": "Global Political Economy"
+  },
+  {
+    "page": 31,
+    "printedPage": 43,
+    "semester": 6,
+    "code": "DEP302",
+    "title": "DATA SCIENCE FOR Social Science 1"
+  },
+  {
+    "page": 31,
+    "printedPage": 43,
+    "semester": 6,
+    "code": "POL414",
+    "title": "Middle East & Arab World Affairs"
+  },
+  {
+    "page": 31,
+    "printedPage": 43,
+    "semester": 6,
+    "code": "POL328",
+    "title": "Communication and Conflict Management"
+  },
+  {
+    "page": 31,
+    "printedPage": 43,
+    "semester": 6,
+    "code": "POL308",
+    "title": "Public Opinion and Political Commination"
+  },
+  {
+    "page": 32,
+    "printedPage": 44,
+    "semester": 7,
+    "code": "HM009",
+    "title": "Scientific Research Methodology."
+  },
+  {
+    "page": 32,
+    "printedPage": 44,
+    "semester": 7,
+    "code": "POL429",
+    "title": "Public Diplomacy Information Systems"
+  },
+  {
+    "page": 32,
+    "printedPage": 44,
+    "semester": 7,
+    "code": "POL422",
+    "title": "Arab Israeli Conflict"
+  },
+  {
+    "page": 32,
+    "printedPage": 44,
+    "semester": 7,
+    "code": "DEP403",
+    "title": "Data Science for Social Science 2"
+  },
+  {
+    "page": 32,
+    "printedPage": 44,
+    "semester": 7,
+    "code": "POL421",
+    "title": "International Contemporary Issues"
+  },
+  {
+    "page": 32,
+    "printedPage": 44,
+    "semester": 7,
+    "code": "POL419",
+    "title": "Politics of Regional blocs"
+  },
+  {
+    "page": 32,
+    "printedPage": 44,
+    "semester": 7,
+    "code": "POL426",
+    "title": "African Studies"
+  },
+  {
+    "page": 32,
+    "printedPage": 44,
+    "semester": 7,
+    "code": "ECO313",
+    "title": "Energy Economies"
+  },
+  {
+    "page": 32,
+    "printedPage": 44,
+    "semester": 8,
+    "code": "POL430",
+    "title": "Politics and Technology"
+  },
+  {
+    "page": 32,
+    "printedPage": 44,
+    "semester": 8,
+    "code": "POL431",
+    "title": "Graduation project (dissertation)"
+  },
+  {
+    "page": 32,
+    "printedPage": 44,
+    "semester": 8,
+    "code": "MIS304",
+    "title": "Financial Information systems."
+  },
+  {
+    "page": 32,
+    "printedPage": 44,
+    "semester": 8,
+    "code": "POL312",
+    "title": "Geopolitics"
+  },
+  {
+    "page": 32,
+    "printedPage": 44,
+    "semester": 8,
+    "code": "POL433",
+    "title": "Political Journalism"
+  },
+  {
+    "page": 32,
+    "printedPage": 44,
+    "semester": 8,
+    "code": "POL423",
+    "title": "Egyptian Foreign Policy"
+  },
+  {
+    "page": 32,
+    "printedPage": 44,
+    "semester": 8,
+    "code": "ECO416",
+    "title": "Economic Policies and Analysis"
+  },
+  {
+    "page": 33,
+    "printedPage": 45,
+    "semester": 1,
+    "code": "ECO101",
+    "title": "Introduction to Microeconomics"
+  },
+  {
+    "page": 33,
+    "printedPage": 45,
+    "semester": 1,
+    "code": "MTH103",
+    "title": "Mathematics"
+  },
+  {
+    "page": 33,
+    "printedPage": 45,
+    "semester": 1,
+    "code": "MGT101",
+    "title": "Introduction to Management"
+  },
+  {
+    "page": 33,
+    "printedPage": 45,
+    "semester": 1,
+    "code": "IST103",
+    "title": "Fundamentals of Information Systems."
+  },
+  {
+    "page": 33,
+    "printedPage": 45,
+    "semester": 1,
+    "code": "COS101",
+    "title": "Introduction to Computer Science"
+  },
+  {
+    "page": 33,
+    "printedPage": 45,
+    "semester": 1,
+    "code": "HM003",
+    "title": "English language 1"
+  },
+  {
+    "page": 33,
+    "printedPage": 45,
+    "semester": 2,
+    "code": "ECO102",
+    "title": "Introduction to Macroeconomics"
+  },
+  {
+    "page": 33,
+    "printedPage": 45,
+    "semester": 2,
+    "code": "ACC125",
+    "title": "Financial Accounting"
+  },
+  {
+    "page": 33,
+    "printedPage": 45,
+    "semester": 2,
+    "code": "COS102",
+    "title": "Introduction to programming."
+  },
+  {
+    "page": 33,
+    "printedPage": 45,
+    "semester": 2,
+    "code": "IST104",
+    "title": "System analysis and design 1"
+  },
+  {
+    "page": 33,
+    "printedPage": 45,
+    "semester": 2,
+    "code": "STA103",
+    "title": "Statistics and probability 1"
+  },
+  {
+    "page": 33,
+    "printedPage": 45,
+    "semester": 2,
+    "code": "HM004",
+    "title": "English language 2"
+  },
+  {
+    "page": 34,
+    "printedPage": 46,
+    "semester": 3,
+    "code": "IST205",
+    "title": "Database systems 1"
+  },
+  {
+    "page": 34,
+    "printedPage": 46,
+    "semester": 3,
+    "code": "STA204",
+    "title": "Statistics and probability 2"
+  },
+  {
+    "page": 34,
+    "printedPage": 46,
+    "semester": 3,
+    "code": "HM006",
+    "title": "Human Rights & Anticorruption."
+  },
+  {
+    "page": 34,
+    "printedPage": 46,
+    "semester": 3,
+    "code": "ECO203",
+    "title": "Money & Banking."
+  },
+  {
+    "page": 34,
+    "printedPage": 46,
+    "semester": 3,
+    "code": "IST206",
+    "title": "System analysis and design 2"
+  },
+  {
+    "page": 34,
+    "printedPage": 46,
+    "semester": 3,
+    "code": "COS203",
+    "title": "Object oriented programming."
+  },
+  {
+    "page": 34,
+    "printedPage": 46,
+    "semester": 3,
+    "code": "HM001",
+    "title": "Russian language 1."
+  },
+  {
+    "page": 34,
+    "printedPage": 46,
+    "semester": 4,
+    "code": "ACC226",
+    "title": "Fundamentals of Managerial Accounting."
+  },
+  {
+    "page": 34,
+    "printedPage": 46,
+    "semester": 4,
+    "code": "BUA201",
+    "title": "Introduction to business Analytics."
+  },
+  {
+    "page": 34,
+    "printedPage": 46,
+    "semester": 4,
+    "code": "IST207",
+    "title": "Database system 2"
+  },
+  {
+    "page": 34,
+    "printedPage": 46,
+    "semester": 4,
+    "code": "FIN201",
+    "title": "principles of finance and investment"
+  },
+  {
+    "page": 34,
+    "printedPage": 46,
+    "semester": 4,
+    "code": "HM005",
+    "title": "Scientific Thinking."
+  },
+  {
+    "page": 34,
+    "printedPage": 46,
+    "semester": 4,
+    "code": "MGT102",
+    "title": "Introduction to marketing."
+  },
+  {
+    "page": 34,
+    "printedPage": 46,
+    "semester": 4,
+    "code": "HM002",
+    "title": "Russian language 2."
+  },
+  {
+    "page": 36,
+    "printedPage": 48,
+    "semester": 5,
+    "code": "COS304",
+    "title": "Data structures"
+  },
+  {
+    "page": 36,
+    "printedPage": 48,
+    "semester": 5,
+    "code": "STA305",
+    "title": "Statistical Computing"
+  },
+  {
+    "page": 36,
+    "printedPage": 48,
+    "semester": 5,
+    "code": "COS305",
+    "title": "Operating systems."
+  },
+  {
+    "page": 36,
+    "printedPage": 48,
+    "semester": 5,
+    "code": "MIS301",
+    "title": "Digital marketing and social media"
+  },
+  {
+    "page": 36,
+    "printedPage": 48,
+    "semester": 5,
+    "code": "BUA308",
+    "title": "Data analysis for business applications."
+  },
+  {
+    "page": 36,
+    "printedPage": 48,
+    "semester": 5,
+    "code": "DAS305",
+    "title": "Data warehouse"
+  },
+  {
+    "page": 36,
+    "printedPage": 48,
+    "semester": 6,
+    "code": "ARI301",
+    "title": "Introduction to artificial intelligence"
+  },
+  {
+    "page": 36,
+    "printedPage": 48,
+    "semester": 6,
+    "code": "BUA303",
+    "title": "Business Intelligence"
+  },
+  {
+    "page": 36,
+    "printedPage": 48,
+    "semester": 6,
+    "code": "BUA304",
+    "title": "Predictive analytics."
+  },
+  {
+    "page": 36,
+    "printedPage": 48,
+    "semester": 6,
+    "code": "BIT303",
+    "title": "Networking & Telecommunications."
+  },
+  {
+    "page": 36,
+    "printedPage": 48,
+    "semester": 6,
+    "code": "ECO414",
+    "title": "Econometrics for time series.."
+  },
+  {
+    "page": 36,
+    "printedPage": 48,
+    "semester": 6,
+    "code": "STA306",
+    "title": "Operations Research."
+  },
+  {
+    "page": 36,
+    "printedPage": 48,
+    "semester": 6,
+    "code": "BUA302",
+    "title": "Marketing analytics."
+  },
+  {
+    "page": 36,
+    "printedPage": 48,
+    "semester": 6,
+    "code": "BUA307",
+    "title": "Special Topics in business analytics."
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 7,
+    "code": "HM009",
+    "title": "Scientific Research Methodology."
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 7,
+    "code": "DAS409",
+    "title": "Data Mining."
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 7,
+    "code": "BUA305",
+    "title": "Prescriptive analytics."
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 7,
+    "code": "BUA422",
+    "title": "Graduation Project 1."
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 7,
+    "code": "ECO424",
+    "title": "Business Data Forecasting"
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 7,
+    "code": "STA407",
+    "title": "Qualitative & Quantitative analysis."
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 7,
+    "code": "FIN410",
+    "title": "Investment portfolio management"
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 7,
+    "code": "MIS409",
+    "title": "Project Management."
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 8,
+    "code": "BIT406",
+    "title": "Data Security."
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 8,
+    "code": "DAS410",
+    "title": "Foundation of Big Data."
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 8,
+    "code": "BUA425",
+    "title": "Graduation Project 2."
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 8,
+    "code": "ARI413",
+    "title": "Machine learning."
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 8,
+    "code": "MIS304",
+    "title": "Financial Information systems."
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 8,
+    "code": "IST311",
+    "title": "Web based applications."
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 8,
+    "code": "IST312",
+    "title": "Online Analytical Processing."
+  },
+  {
+    "page": 37,
+    "printedPage": 49,
+    "semester": 8,
+    "code": "IST309",
+    "title": "Information Retrieval and web search."
+  },
+  {
+    "page": 39,
+    "printedPage": 51,
+    "semester": 5,
+    "code": "COS304",
+    "title": "Data structures"
+  },
+  {
+    "page": 39,
+    "printedPage": 51,
+    "semester": 5,
+    "code": "STA305",
+    "title": "Statistical Computing."
+  },
+  {
+    "page": 39,
+    "printedPage": 51,
+    "semester": 5,
+    "code": "COS305",
+    "title": "Operating systems."
+  },
+  {
+    "page": 39,
+    "printedPage": 51,
+    "semester": 5,
+    "code": "MIS301",
+    "title": "Digital marketing and social media"
+  },
+  {
+    "page": 39,
+    "printedPage": 51,
+    "semester": 5,
+    "code": "MGT306",
+    "title": "Production & Operations Management."
+  },
+  {
+    "page": 39,
+    "printedPage": 51,
+    "semester": 5,
+    "code": "MIS302",
+    "title": "Fundamentals of E-commerce."
+  },
+  {
+    "page": 39,
+    "printedPage": 51,
+    "semester": 6,
+    "code": "FIN410",
+    "title": "Investment portfolio management"
+  },
+  {
+    "page": 39,
+    "printedPage": 51,
+    "semester": 6,
+    "code": "MGT203",
+    "title": "Introduction to Human Resource Management."
+  },
+  {
+    "page": 39,
+    "printedPage": 51,
+    "semester": 6,
+    "code": "MIS303",
+    "title": "Advanced topics in information systems."
+  },
+  {
+    "page": 39,
+    "printedPage": 51,
+    "semester": 6,
+    "code": "IST311",
+    "title": "Web based applications"
+  },
+  {
+    "page": 39,
+    "printedPage": 51,
+    "semester": 6,
+    "code": "BUA302",
+    "title": "Marketing analytics"
+  },
+  {
+    "page": 39,
+    "printedPage": 51,
+    "semester": 6,
+    "code": "ECO327",
+    "title": "Foreign trade"
+  },
+  {
+    "page": 39,
+    "printedPage": 51,
+    "semester": 6,
+    "code": "POL203",
+    "title": "Principles of International relations"
+  },
+  {
+    "page": 39,
+    "printedPage": 51,
+    "semester": 6,
+    "code": "STA306",
+    "title": "Operations Research."
+  },
+  {
+    "page": 39,
+    "printedPage": 51,
+    "semester": 6,
+    "code": "MIS305",
+    "title": "Multimedia."
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 7,
+    "code": "HM009",
+    "title": "Scientific Research Methodology"
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 7,
+    "code": "IST414",
+    "title": "Mobile Applications."
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 7,
+    "code": "BIT406",
+    "title": "Data security"
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 7,
+    "code": "MIS422",
+    "title": "Graduation Project 1."
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 7,
+    "code": "MGT427",
+    "title": "Creative thinking."
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 7,
+    "code": "ECO305",
+    "title": "Economics of Public"
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 7,
+    "code": "BUA306",
+    "title": "Supply chain analytics."
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 7,
+    "code": "COS310",
+    "title": "Software engineering."
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 7,
+    "code": "MIS409",
+    "title": "Project Management."
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 7,
+    "code": "MIS406",
+    "title": "Contemporary issues in"
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 8,
+    "code": "BIT303",
+    "title": "Networking and Telecommunications"
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 8,
+    "code": "BUA303",
+    "title": "Business Intelligence."
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 8,
+    "code": "MIS425",
+    "title": "Graduation Project 2."
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 8,
+    "code": "MGT416",
+    "title": "Strategic Management."
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 8,
+    "code": "MGT428",
+    "title": "Communication Skills."
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 8,
+    "code": "MIS407",
+    "title": "Advanced E-commerce."
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 8,
+    "code": "MIS408",
+    "title": "Accounting information"
+  },
+  {
+    "page": 40,
+    "printedPage": 52,
+    "semester": 8,
+    "code": "MIS304",
+    "title": "Financial Information"
+  },
+  {
+    "page": 41,
+    "printedPage": 53,
+    "semester": 5,
+    "code": "COS304",
+    "title": "Data structures"
+  },
+  {
+    "page": 41,
+    "printedPage": 53,
+    "semester": 5,
+    "code": "STA305",
+    "title": "Statistical Computing"
+  },
+  {
+    "page": 41,
+    "printedPage": 53,
+    "semester": 5,
+    "code": "COS305",
+    "title": "Operating systems."
+  },
+  {
+    "page": 41,
+    "printedPage": 53,
+    "semester": 5,
+    "code": "MIS301",
+    "title": "Digital marketing and social media"
+  },
+  {
+    "page": 41,
+    "printedPage": 53,
+    "semester": 5,
+    "code": "MGT306",
+    "title": "Production & operation management"
+  },
+  {
+    "page": 41,
+    "printedPage": 53,
+    "semester": 5,
+    "code": "ARI301",
+    "title": "Introduction to Artificial intelligence"
+  },
+  {
+    "page": 41,
+    "printedPage": 53,
+    "semester": 6,
+    "code": "BIT303",
+    "title": "Networking and Telecommunications"
+  },
+  {
+    "page": 41,
+    "printedPage": 53,
+    "semester": 6,
+    "code": "MKI301",
+    "title": "Introduction to Marketing Intelligence"
+  },
+  {
+    "page": 41,
+    "printedPage": 53,
+    "semester": 6,
+    "code": "MIS303",
+    "title": "Advanced topics in information systems."
+  },
+  {
+    "page": 41,
+    "printedPage": 53,
+    "semester": 6,
+    "code": "BUA302",
+    "title": "Marketing analytics"
+  },
+  {
+    "page": 41,
+    "printedPage": 53,
+    "semester": 6,
+    "code": "BUA306",
+    "title": "Supply chain analytics."
+  },
+  {
+    "page": 41,
+    "printedPage": 53,
+    "semester": 6,
+    "code": "BUA304",
+    "title": "Predictive analytics."
+  },
+  {
+    "page": 41,
+    "printedPage": 53,
+    "semester": 6,
+    "code": "ECO327",
+    "title": "Foreign trade"
+  },
+  {
+    "page": 41,
+    "printedPage": 53,
+    "semester": 6,
+    "code": "STA306",
+    "title": "Operations Research."
+  },
+  {
+    "page": 41,
+    "printedPage": 53,
+    "semester": 6,
+    "code": "MIS305",
+    "title": "Multimedia."
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 7,
+    "code": "HM009",
+    "title": "Scientific Research Methodology"
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 7,
+    "code": "MKT401",
+    "title": "Marketing Research"
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 7,
+    "code": "MKT404",
+    "title": "E-Marketing."
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 7,
+    "code": "MKI401",
+    "title": "Graduation Project 1."
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 7,
+    "code": "MKT402",
+    "title": "Consumer behavior"
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 7,
+    "code": "MGT413",
+    "title": "Public Relations"
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 7,
+    "code": "MGT427",
+    "title": "Creative thinking."
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 7,
+    "code": "MKT405",
+    "title": "New product planning"
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 7,
+    "code": "MKT403",
+    "title": "Integrated Marketing"
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 7,
+    "code": "MIS409",
+    "title": "Project Management"
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 8,
+    "code": "MKT406",
+    "title": "Brand Management"
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 8,
+    "code": "MKI403",
+    "title": "Customer analytics."
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 8,
+    "code": "MKI402",
+    "title": "Graduation Project 2."
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 8,
+    "code": "MKT407",
+    "title": "Marketing Strategy."
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 8,
+    "code": "MGT428",
+    "title": "Communication Skills."
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 8,
+    "code": "MKI404",
+    "title": "customer relationship management"
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 8,
+    "code": "MKT408",
+    "title": "International Marketing"
+  },
+  {
+    "page": 42,
+    "printedPage": 54,
+    "semester": 8,
+    "code": "MKT409",
+    "title": "Industrial Marketing Management."
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 5,
+    "code": "COS304",
+    "title": "Data structures"
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 5,
+    "code": "STA305",
+    "title": "Statistical Computing."
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 5,
+    "code": "COS305",
+    "title": "Operating systems."
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 5,
+    "code": "MIS301",
+    "title": "Digital marketing and social media"
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 5,
+    "code": "ECO427",
+    "title": "international finance and banking"
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 5,
+    "code": "BIT406",
+    "title": "Data security"
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 6,
+    "code": "DBF301",
+    "title": "Principles of digital banking and fintech"
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 6,
+    "code": "DBF302",
+    "title": "valuation of companies and cash flow generating assets"
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 6,
+    "code": "ECO310",
+    "title": "Econometrics"
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 6,
+    "code": "COS320",
+    "title": "Distributed systems"
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 6,
+    "code": "MGT307",
+    "title": "business ethics and corporate social responsibility"
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 6,
+    "code": "MGT305",
+    "title": "entrepreneurship and small Enterprises management"
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 6,
+    "code": "ECO331",
+    "title": "Investment theory and practice"
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 6,
+    "code": "BIT303",
+    "title": "Networking & Telecommunications."
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 6,
+    "code": "COS310",
+    "title": "Software engineering."
+  },
+  {
+    "page": 44,
+    "printedPage": 56,
+    "semester": 6,
+    "code": "MIS303",
+    "title": "Advanced topics in information systems."
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 7,
+    "code": "HM009",
+    "title": "Scientific Research Methodology"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 7,
+    "code": "MIS304",
+    "title": "Financial information system"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 7,
+    "code": "COS421",
+    "title": "Cryptography fundamentals"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 7,
+    "code": "ECO414",
+    "title": "Econometrics for time series"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 7,
+    "code": "DBF403",
+    "title": "Graduation project 1"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 7,
+    "code": "DBF404",
+    "title": "data analytics for accounting and finance"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 7,
+    "code": "DBF405",
+    "title": "Trading strategies"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 7,
+    "code": "FIN409",
+    "title": "Banking Management"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 7,
+    "code": "ECO415",
+    "title": "International monetary and financial systems"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 8,
+    "code": "COS422",
+    "title": "blockchain and crypto assets"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 8,
+    "code": "DBF406",
+    "title": "financial derivatives"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 8,
+    "code": "DBF407",
+    "title": "Graduation project 2"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 8,
+    "code": "FIN314",
+    "title": "Financial Risk Management"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 8,
+    "code": "ECO424",
+    "title": "Business Data Forecasting"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 8,
+    "code": "DBF408",
+    "title": "alternative investment funds"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 8,
+    "code": "COS423",
+    "title": "blockchain application"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 8,
+    "code": "COS424",
+    "title": "Database security"
+  },
+  {
+    "page": 45,
+    "printedPage": 57,
+    "semester": 8,
+    "code": "COS425",
+    "title": "Distributed Computing"
+  }
+]
