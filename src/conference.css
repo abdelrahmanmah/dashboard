@@ -19,3 +19,10 @@
 @media(max-width:1100px){.rank-row{grid-template-columns:130px minmax(0,1fr) 43px}.rank-scale{margin-right:138px}.axes-rank-chart>div{grid-template-columns:minmax(104px,1fr) minmax(70px,1.25fr) 43px}.axes-scale{margin-right:137px}}
 @media(max-width:700px){.chart-title-row{flex-wrap:wrap}.chart-mode{margin-bottom:10px}.rank-row{grid-template-columns:130px minmax(0,1fr) 45px}.axes-rank-chart>div{grid-template-columns:minmax(112px,1fr) minmax(70px,1.2fr) 45px}}
 @media print{.chart-mode{display:none}.rank-row{grid-template-columns:95px minmax(0,1fr) 35px;min-height:28px}.rank-label{font-size:8px}.rank-label svg{width:12px;height:12px}.rank-number{width:15px;height:15px;font-size:8px}.rank-value{font-size:9px}.rank-scale{margin-right:104px;margin-left:42px}.axes-rank-chart>div{grid-template-columns:82px minmax(0,1fr) 35px}.axes-scale{margin-right:93px;margin-left:43px}.axis-rank-label{font-size:8px}}
+
+.axis-rank-label svg{color:#5189bf;flex:none;width:16px;height:16px}
+.heatmap-axis-label{display:flex;flex-direction:column;align-items:center;justify-content:end;gap:5px;min-height:47px}
+.heatmap-axis-label svg{color:#588fc2;flex:none}
+.dialog-axis-name{display:flex;align-items:center;gap:7px;min-width:0}
+.dialog-axis-name svg{color:#4b8cc4;flex:none}
+@media print{.axis-rank-label svg,.heatmap-axis-label svg{width:12px;height:12px}}
